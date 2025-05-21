@@ -1,1 +1,1 @@
-put 'HELLO'
+put 'こんにちhあ'
